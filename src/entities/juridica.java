@@ -25,7 +25,6 @@ public class juridica extends Contribuentes {
 			return getRenda() * 0.14;
 	
 	
-	
 	}
 	}
 	
